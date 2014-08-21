@@ -17,7 +17,6 @@ features[features_overrides][] = variable.jquery_update_compression_type.value
 features[features_overrides][] = variable.less_devel.value
 features[features_overrides][] = variable.preprocess_css.value
 features[features_overrides][] = variable.preprocess_js.value
-features[variable][] = minify_captured_js
 features[variable][] = minify_html
 features[variable][] = minify_js
 project path = sites/all/modules/features

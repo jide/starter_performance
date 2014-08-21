@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Starter: Performance feature.
+ */
+
+include_once 'starter_performance.features.inc';
